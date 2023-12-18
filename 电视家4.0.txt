@@ -1,0 +1,973 @@
+央视频道,#genre#
+
+CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
+CCTV-1 综合,http://ikuai.sqitv.com:9003/hls/1/index.m3u8
+CCTV-1 综合,http://ikuai.sqitv.com:9003/hls/42/index.m3u8
+CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
+CCTV-2 财经,http://ikuai.sqitv.com:9003/hls/2/index.m3u8
+CCTV-3 综艺,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
+CCTV-3 综艺,http://ikuai.sqitv.com:9003/hls/3/index.m3u8
+CCTV-4 中文国际,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+CCTV-4 中文国际,http://ikuai.sqitv.com:9003/hls/4/index.m3u8
+CCTV-5 体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
+CCTV-5 体育,http://ikuai.sqitv.com:9003/hls/5/index.m3u8
+CCTV-5+ 体育赛事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-5+ 体育赛事,http://ikuai.sqitv.com:9003/hls/19/index.m3u8
+CCTV-6 电影,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
+CCTV-6 电影,http://ikuai.sqitv.com:9003/hls/6/index.m3u8
+CCTV-7 国防军事,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
+CCTV-7 国防军事,http://ikuai.sqitv.com:9003/hls/7/index.m3u8
+CCTV-8 电视剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
+CCTV-8 电视剧,http://ikuai.sqitv.com:9003/hls/8/index.m3u8
+CCTV-9 纪录,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
+CCTV-9 纪录,http://ikuai.sqitv.com:9003/hls/9/index.m3u8
+CCTV-10 科教,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
+CCTV-10 科教,http://ikuai.sqitv.com:9003/hls/10/index.m3u8
+CCTV-11 戏曲,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
+CCTV-11 戏曲,http://ikuai.sqitv.com:9003/hls/11/index.m3u8
+CCTV-12 社会与法,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
+CCTV-12 社会与法,http://ikuai.sqitv.com:9003/hls/12/index.m3u8
+CCTV-13 新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+CCTV-13 新闻,http://ikuai.sqitv.com:9003/hls/13/index.m3u8
+CCTV-14 少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
+CCTV-14 少儿,http://ikuai.sqitv.com:9003/hls/14/index.m3u8
+CCTV-15 音乐,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
+CCTV-15 音乐,http://ikuai.sqitv.com:9003/hls/15/index.m3u8
+CCTV-16 奥林匹克,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
+CCTV-17 农业农村,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+CCTV-17 农业农村,http://ikuai.sqitv.com:9003/hls/17/index.m3u8
+CCTV-16 奥林匹克 4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CGTN,http://ikuai.sqitv.com:9003/hls/16/index.m3u8
+CETV,http://ikuai.sqitv.com:9003/hls/18/index.m3u8
+CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+
+
+卫视频道,#genre#
+
+北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
+北京卫视,http://ikuai.sqitv.com:9003/hls/46/index.m3u8
+湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
+湖南卫视,http://ikuai.sqitv.com:9003/hls/56/index.m3u8
+东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
+四川卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8
+四川卫视,http://ikuai.sqitv.com:9003/hls/58/index.m3u8
+天津卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8
+天津卫视,http://ikuai.sqitv.com:9003/hls/60/index.m3u8
+安徽卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8
+安徽卫视,http://ikuai.sqitv.com:9003/hls/50/index.m3u8
+山东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
+山东卫视,http://ikuai.sqitv.com:9003/hls/49/index.m3u8
+广东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
+广东卫视,http://ikuai.sqitv.com:9003/hls/47/index.m3u8
+广西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
+广西卫视,http://ikuai.sqitv.com:9003/hls/67/index.m3u8
+江苏卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
+江苏卫视,http://ikuai.sqitv.com:9003/hls/45/index.m3u8
+江西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8
+江西卫视,http://ikuai.sqitv.com:9003/hls/55/index.m3u8
+河北卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
+河北卫视,http://ikuai.sqitv.com:9003/hls/54/index.m3u8
+河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+河南卫视,http://ikuai.sqitv.com:9003/hls/25/index.m3u8
+河南都市频道,http://ikuai.sqitv.com:9003/hls/26/index.m3u8
+河南民生,http://ikuai.sqitv.com:9003/hls/27/index.m3u8
+河南法治,http://ikuai.sqitv.com:9003/hls/28/index.m3u8
+河南电视剧,http://ikuai.sqitv.com:9003/hls/29/index.m3u8
+河南新闻,http://ikuai.sqitv.com:9003/hls/30/index.m3u8
+河南购物,http://ikuai.sqitv.com:9003/hls/31/index.m3u8
+河南公共,http://ikuai.sqitv.com:9003/hls/32/index.m3u8
+河南乡村,http://ikuai.sqitv.com:9003/hls/33/index.m3u8
+河南国际,http://ikuai.sqitv.com:9003/hls/34/index.m3u8
+晴彩中原,http://ikuai.sqitv.com:9003/hls/35/index.m3u8
+河南文物,http://ikuai.sqitv.com:9003/hls/36/index.m3u8
+河南梨园,http://ikuai.sqitv.com:9003/hls/37/index.m3u8
+中华功夫,http://ikuai.sqitv.com:9003/hls/38/index.m3u8
+美食汇,http://ikuai.sqitv.com:9003/hls/39/index.m3u8
+棋牌汇,http://ikuai.sqitv.com:9003/hls/40/index.m3u8
+百姓调节,http://ikuai.sqitv.com:9003/hls/41/index.m3u8
+浙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
+浙江卫视,http://ikuai.sqitv.com:9003/hls/43/index.m3u8
+上海卫视,http://ikuai.sqitv.com:9003/hls/44/index.m3u8
+海南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8
+海南卫视,http://ikuai.sqitv.com:9003/hls/69/index.m3u8
+深圳卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
+深圳卫视,http://ikuai.sqitv.com:9003/hls/57/index.m3u8
+湖北卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8
+湖北卫视,http://ikuai.sqitv.com:9003/hls/59/index.m3u8
+山西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8
+山西卫视,http://ikuai.sqitv.com:9003/hls/68/index.m3u8
+东南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8
+东南卫视,http://ikuai.sqitv.com:9003/hls/65/index.m3u8
+贵州卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
+贵州卫视,http://ikuai.sqitv.com:9003/hls/53/index.m3u8
+辽宁卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
+辽宁卫视,http://ikuai.sqitv.com:9003/hls/51/index.m3u8
+重庆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
+重庆卫视,http://ikuai.sqitv.com:9003/hls/62/index.m3u8
+黑龙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
+黑龙江卫视,http://ikuai.sqitv.com:9003/hls/48/index.m3u8
+内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
+内蒙古卫视,http://ikuai.sqitv.com:9003/hls/66/index.m3u8
+宁夏卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8
+宁夏卫视,http://ikuai.sqitv.com:9003/hls/64/index.m3u8
+陕西卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
+陕西卫视,http://ikuai.sqitv.com:9003/hls/52/index.m3u8
+甘肃卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
+甘肃卫视,http://ikuai.sqitv.com:9003/hls/70/index.m3u8
+吉林卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
+吉林卫视,http://ikuai.sqitv.com:9003/hls/63/index.m3u8
+云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
+云南卫视,http://ikuai.sqitv.com:9003/hls/61/index.m3u8
+三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
+青海卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
+青海卫视,http://ikuai.sqitv.com:9003/hls/71/index.m3u8
+新疆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
+新疆卫视,http://ikuai.sqitv.com:9003/hls/76/index.m3u8
+西藏卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
+西藏卫视,http://ikuai.sqitv.com:9003/hls/77/index.m3u8
+兵团卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
+延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
+厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
+中国教育1台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
+中国教育2台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
+中国教育4台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
+北京纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
+http://ikuai.sqitv.com:9003/hls/74/index.m3u8
+金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
+金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
+金鹰卡通,http://ikuai.sqitv.com:9003/hls/72/index.m3u8
+嘉佳卡通,http://ikuai.sqitv.com:9003/hls/73/index.m3u8
+哈哈炫动,http://ikuai.sqitv.com:9003/hls/75/index.m3u8
+优漫卡通,http://ikuai.sqitv.com:9003/hls/78/index.m3u8
+新闻综合,http://ikuai.sqitv.com:9003/hls/79/index.m3u8
+公共频道,http://ikuai.sqitv.com:9003/hls/80/index.m3u8
+文体科教,http://ikuai.sqitv.com:9003/hls/81/index.m3u8
+河南4K,http://ikuai.sqitv.com:9003/hls/82/index.m3u8
+
+
+轮播频道,#genre#
+
+电影_星爷,https://live.metshop.top/huya/11342412
+电影_周星星,https://live.metshop.top/huya/11336587
+电影_李连杰,https://live.metshop.top/huya/11342390
+电影_洪金宝,https://live.metshop.top/huya/11279251
+电影_梁家辉,https://live.metshop.top/huya/11342429
+电影_刘德华,https://live.metshop.top/huya/11342424
+电影_斯坦森,https://live.metshop.top/huya/21059588
+电影_英叔,https://live.metshop.top/huya/11342421
+电影_发哥,https://live.metshop.top/huya/11342387
+电影_成龙,https://live.metshop.top/huya/11342386
+电影_王晶,https://live.metshop.top/huya/11602058
+电影_沈腾,https://live.metshop.top/huya/11601968
+电影_黄渤,https://live.metshop.top/huya/11352876
+电影_强森,https://live.metshop.top/huya/21059581
+电影_漫威,https://live.metshop.top/huya/11602034
+电影_宇宙,https://live.metshop.top/huya/11342428
+电影_怪兽,https://live.metshop.top/huya/21059577
+电影_武侠,https://live.metshop.top/huya/11342427
+电影_警匪,https://live.metshop.top/huya/11352886
+电影_罪犯,https://live.metshop.top/huya/11352962
+电影_枪战,https://live.metshop.top/huya/21059579
+电影_海盗,https://live.metshop.top/huya/21059595
+电影_赛车,https://live.metshop.top/huya/11279247
+电影_推荐,https://live.metshop.top/huya/11602041
+电影_救援,https://live.metshop.top/huya/21059594
+电影_热血,https://live.metshop.top/huya/11352934
+电影_盗墓,https://live.metshop.top/huya/21059552
+电影_贺岁,https://live.metshop.top/huya/11601971
+电影_玄幻,https://live.metshop.top/huya/11342414
+电影_谍战,https://live.metshop.top/huya/21059585
+电影_战争,https://live.metshop.top/huya/21059592
+电影_喜剧,https://live.metshop.top/huya/11352877
+电影_港片,https://live.metshop.top/huya/11602043
+电影_国产,https://live.metshop.top/huya/11352973
+电影_小鬼头,https://live.metshop.top/huya/11352963
+电影_八点档,https://live.metshop.top/huya/880261
+电影_蜘蛛侠,https://live.metshop.top/huya/21059599
+电影_贺岁片,https://live.metshop.top/huya/11601986
+电影_功夫片,https://live.metshop.top/huya/11352941
+电影_黑帮片,https://live.metshop.top/huya/11336719
+电影_丧尸片,https://live.metshop.top/huya/21059578
+电影_灾难片,https://live.metshop.top/huya/11602075
+电影_谍战片,https://live.metshop.top/huya/21059587
+电影_战争片,https://live.metshop.top/huya/21059574
+电影_犯罪片,https://live.metshop.top/huya/11352974
+电影_古装片,https://live.metshop.top/huya/11336590
+电影_高分动作,https://live.metshop.top/huya/11352884
+电影_动作电影,https://live.metshop.top/huya/11602077
+电影_搞笑喜剧,https://live.metshop.top/huya/11342423
+电影_喜剧专场,https://live.metshop.top/huya/11602044
+电影_欢笑影院,https://live.metshop.top/huya/11352894
+电影_不挤影院,https://live.metshop.top/huya/11352897
+电影_国产悬疑,https://live.metshop.top/huya/11342395
+电影_快意江湖,https://live.metshop.top/huya/11342435
+电影_黑帮斗争,https://live.metshop.top/huya/11342419
+电影_嫣然影厅,https://live.metshop.top/huya/11601977
+电影_许氏三杰,https://live.metshop.top/huya/11602033
+电影_经典港片,https://live.metshop.top/huya/11352965
+电影_镖行天下,https://live.metshop.top/huya/11352969
+电影_高能反转,https://live.metshop.top/huya/11352887
+电影_喜乐影院,https://live.metshop.top/huya/21059580
+电影_蘑菇影厅,https://live.metshop.top/huya/11601981
+电影_搞笑恐怖,https://live.metshop.top/huya/11601960
+电影_死神来了,https://live.metshop.top/huya/11352903
+电影_变形金刚,https://live.metshop.top/huya/21059596
+电影_怪兽系列,https://live.metshop.top/huya/21059554
+
+
+移动专区,#genre#
+
+CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
+重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
+山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+山东教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+东南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
+海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
+湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
+东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
+广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
+江西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
+江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
+深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+冬奥纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
+贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
+宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
+甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
+西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
+康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
+新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
+兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
+内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
+电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
+哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+陕西一套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+陕西二套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
+陕西三套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
+陕西四套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
+陕西五套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
+陕西六套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
+陕西七套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
+陕西八套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
+西安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
+西安都市,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
+西安商务资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
+西安影视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+西安丝路,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+西安教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+咸阳-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
+杨凌-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226373/index.m3u8
+延安-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
+延安-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
+铜川-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
+铜川-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
+宝鸡-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
+宝鸡-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
+宁强-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
+宁强-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8
+汉中-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+汉中-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
+佛坪-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8
+镇巴-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8
+略阳-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+西乡-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
+榆林-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
+商洛-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
+渭南-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
+安康-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
+纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+置业频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+京视剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
+家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
+奕坦春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
+发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+
+
+剧集轮播,#genre#
+
+剧集_老三国,https://live.metshop.top/huya/11602081
+剧集_新三国,https://live.metshop.top/huya/11352944
+剧集_新水浒,https://live.metshop.top/huya/11342384
+剧集_纪晓岚,https://live.metshop.top/huya/11342396
+剧集_庆余年,https://live.metshop.top/huya/11352960
+剧集_雍正王朝,https://live.metshop.top/huya/11342439
+剧集_士兵突击,https://live.metshop.top/huya/11342430
+剧集_爱情公寓,https://live.metshop.top/huya/11336726
+剧集_武林外传,https://live.metshop.top/huya/21059598
+剧集_地下交通站,https://live.metshop.top/huya/11342433
+剧集_邻里一家亲,https://live.metshop.top/huya/11342426
+搞笑_陈翔六点半,https://live.metshop.top/huya/11274154
+
+
+DJ歌曲,#genre#
+
+DJ舞曲《让我做你的眼睛》,https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4
+DJ版《时间会知道你好不好》,https://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4
+DJ版《爱不得忘不舍》,https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4
+DJ版《蜜雪冰城》,https://vd3.bdstatic.com/mda-mhbae2pwwxhyxjcz/1080p/cae_h264/1628767594518574030/mda-mhbae2pwwxhyxjcz.mp4
+《无味》DJ版,https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4
+DJ版《原谅你的谎》,https://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/cae_h264/1628673933350116053/mda-mhacxx5vhr2we882.mp4
+DJ《等爱》,https://vd2.bdstatic.com/mda-mfhh1e0hwq212rrt/sc/h264/1623988905898256147/mda-mfhh1e0hwq212rrt.mp4
+DJ《醉过多少回》,https://vd4.bdstatic.com/mda-megp46e98a4f2b9g/sc/h264/1621239560364992817/mda-megp46e98a4f2b9g.mp4
+DJ情歌《爱情迷了路》,https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
+DJ最美不过你的微笑,https://vd4.bdstatic.com/mda-mhs2qjdmkjz2rb7g/sc/cae_h264/1630029534870787600/mda-mhs2qjdmkjz2rb7g.mp4
+DJ流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4
+车载DJ《多年以后》,https://vd3.bdstatic.com/mda-mhqekuegbh6112js/1080p/cae_h264/1629891559415737083/mda-mhqekuegbh6112js.mp4
+红尘只是个过客,https://vd2.bdstatic.com/mda-mhq68s6g444n437t/hd/cae_h264/1629865742325435508/mda-mhq68s6g444n437t.mp4
+经典老歌DJ舞曲七首,https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
+精选五首DJ男声串烧,https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4
+韩可可《错位时空》DJ版,https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
+忘记你需要多久(DJ小鱼儿版),https://vd2.bdstatic.com/mda-mc1sm1r5s9azchjv/v1-cae/1080p/mda-mc1sm1r5s9azchjv.mp4
+车载DJ《今夜为你醉...》,https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
+DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
+抖音热歌《大风吹+夜夜夜漫长》,https://vdse.bdstatic.com//13da18e12728e9d7849f6589a3070b4c.mp4
+2021年最好听的DJ串烧,https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
+《哑巴新娘...》,https://vdse.bdstatic.com//1a3fdd4def6feeef6a49f4c2bfd9fec2.mp4
+女生版DJ洗脑神曲,https://vdse.bdstatic.com//6d2f84ad5762c818efd8dc210d8743c6.mp4
+一夜火爆i网络DJ舞曲,https://vdse.bdstatic.com//692b9306c06b72d223c9d714f8ebe579.mp4
+2021年最火伤感音乐,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
+
+
+电影频道,#genre#
+
+神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+CHC高清电影,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江影视,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+万州影视,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+河北影视,https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
+兴隆影视,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+溧水影视,http://live.lsrmw.cn/ysyl/sd/live.m3u8
+吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
+吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
+滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
+菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+新泰影视,http://111.17.214.4:1935/live/xtys/playlist.m3u8
+新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
+平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
+
+
+历届春晚,#genre#
+
+春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+西游齐天乐1987,http://50069.njc.svp.tencent-cloud.com/0bc3fuaaiaaavuaibgr5f5rfalodaqwqabaa.f10003.mp4
+春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+
+
+欧美MV,#genre#
+
+mey green、bob garcia - is this love-[86M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0LXV4gUoweaZ4AM.mp4
+kieda budini - flirt-[109M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgprXV4gUo8KbK2gc.mp4
+Justin Bieber - What Do You Mean-[110M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgurTV4gUowIKVsQY.mp4
+Jessi Malay - Do It-[68M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8bPV4gUoqt673AY.mp4
+Inna、Yandel - In Your Eyes-[62M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpbPV4gUo6JvA8wQ.mp4
+inna、eric turner - bop bop-[76M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggLPV4gUogKTq9wE.mp4
+INNA - Say It With Your Body-[73M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyLLV4gUopMv79AQ.mp4
+Hilary Duff - Sparks-[91M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1bHV4gUooIqQ4Qc.mp4
+hilary duff - all about you-[61M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsrHV4gUogLKa4QU.mp4
+giorgio moroder、kylie minogue - right here,right now-[78M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7LDV4gUozLieQA.mp4
+fifth harmony、kid ink - worth it-[84M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgobDV4gUourCyjwE.mp4
+fifth harmony - sledgehammer-[86M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4K-V4gUo4IWzzQE.mp4
+Dimitri Vegas &amp; Like Mike、 Ne-Yo - Higher Plac,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp6-V4gUozY65ngE.mp4
+desi slava、nana - cotton candy-[120M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_K7V4gUo7NGmOA.mp4
+Corina Smith - La Difícil-[49M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_63V4gUog9eZoQI.mp4
+consuelo costin - body needs-[69M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6azV4gUoqPPz5AU.mp4
+ciara - i bet-[114M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw6zV4gUoloDJ5AI.mp4
+ciara -  dance like we&#39;re making love-[100M.mp,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg76vV4gUo8sGnOw.mp4
+Britney Spears、Tinashe - Slumber Party-[112M.mp4-1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgravV4gUokMeSqQU.mp4
+Beast - Freaking Cute-[107M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-KrV4gUo-6nFbw.mp4
+Ariana Grande - Side To Side-[119M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzKrV4gUoisbKkQM.mp4
+Ariana Grande - Dangerous Woman-[59M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgoqrV4gUo8IG_SA.mp4
+alyxx dione、jason derulo - chingalinga-[99M.mp4-10,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg86nV4gUo5pDvzAI.mp4
+推荐- ANDREA - NIKOI DRUG (RAKI TRAKI) - OFFICIAL VI,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglajE4gUosOD54wY.mp4
+Shakira - Try Everything (疯狂动物城)电影主题曲-[67M.mp4-108,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8abE4gUogtq22gI.mp4
+Anton Ewald - This Could Be Something ft. Medina-[,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5KTE4gUo-bWn4AY.mp4
+Mihai Chitu feat DOMG - In al noualea cer-[69M.mp4,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqqTE4gUo07PVsgc.mp4
+Leighton Meester - Heartstrings-[139M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8qPE4gUo09KPywI.mp4
+Jung Dong Ha - Oh! Love-[63M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgx6LE4gUo4uvwwgI.mp4
+Janieck - Feel The Love (Sam Feldt Edit) -[64M.mp4,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk6LE4gUo29aNpwM.mp4
+Fifth Harmony - Work from Home-[86M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv6HE4gUo972u2wE.mp4
+Z.Hera -  D island-[121M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyKvB4gUonsKPowM.mp4
+Yldz Tilbe - Oynat-[123M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk6vB4gUojID_Sg.mp4
+Temara Melek - Fingerprints-[83M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg36rB4gUoxtrMswQ.mp4
+Su Soley skender Payda- Mebbet Hayalet-[85M.mp4-10,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2anB4gUolsuuvQc.mp4
+SKULL -  Get Rich-[128M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo6nB4gUo7LL92QY.mp4
+Foxes - Glorious-[90M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz6fB4gUostyV7gc.mp4
+Avril Lavigne艾薇儿 - Here&#39;s To Never Growing Up ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8qDB4gUogPTw7wU.mp4
+Ariana Grande - Into You-[70M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyaDB4gUolemE4QY.mp4
+Alexandra Stan - Ecoute-[56M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy6zA4gUo8K3Jvgc.mp4
+推荐-OneRepublic - Love Runs Out-[100M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgufq-4gUo3L65ew.mp4
+推荐-MIKA - Good Guys-[63M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vm-4gUohJu48AQ.mp4
+Саша Санта - Я побегу-[55M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1-S-4gUo7Pn1Fw.mp4
+Veronica Vega - Pay Me-[92M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsPO-4gUoi5vP_gM.mp4
+Selena Gomez - Same Old Love-[114M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl_u-4gUooMLVswQ.mp4
+Selena Gomez - Good For You (Explicit) ft. A$AP RO,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo_m-4gUo26uUqgU.mp4
+Ride Out - Kid Ink, Tyga, Wale, YG, Rich Homie Quan - Furious 7-[105M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyee-4gUo4ZT06Ac.mp4
+Reyhan Karaca - Kelebek-[85M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9OW-4gUoypijKg.mp4
+Nico Vega - Beast-[97M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5ti-4gUo8bvNrwc.mp4
+Mizgin - If I Said I&#39;m In Love-[53M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-ta-4gUosJKYiQY.mp4
+Martin Solveig &amp; Sam White - +1-[72M.mp4-1080P,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgztW-4gUomveQhQM.mp4
+Maroon 5 - Sugar (2015)-[192M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgotW-4gUo5InbrAM.mp4
+Mark Ronson ft. Bruno Mars - Uptown Funk-[138M.mp4,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3tS-4gUo0eu28AQ.mp4
+Maná ft. Shakira - Mi verdad -[120M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrW-4gUo4LPtpAQ.mp4
+Madonna - Living For Love -[124M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggbG-4gUom4iklAM.mp4
+Lea Michele -- On My Way -[111M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7a6-4gUo-7XtpQQ.mp4
+KONGOS - Come With Me Now -[72M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsa2-4gUoyOXR1AU.mp4
+Kiesza- Hideaway -[447M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_qy-4gUos-W50gM.mp4
+Ke$ha - Tik Tok -[464M.mpg-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi6y-4gUot-uZyQU.mp4
+Justin Bieber - Love Me -[70M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggau-4gUowqq2jQY.mp4
+Hadise - Yaz Günü -[66M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3qe-4gUogMr0wAM.mp4
+Escape The Fate - One For The Money -[101M.mp4-108,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6KO-4gUogvTumgQ.mp4
+19EIGHTY7 - Get It On -[76M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8Y2-4gUo4OD59QM.mp4
+Avril Lavigne - Give You What You Like -[84M.mp4-1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz4a-4gUo6YmQ0gY.mp4
+Arjun.ft.Arijit Singh.ft.Samira Koppikar - Mohabba,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1IW-4gUowJ3Q5gI.mp4
+Birdy - Not About Angels -[66M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8IS-4gUo2vjCrgU.mp4
+Bob Sinclar - Someone Who Needs Me  -[80M.mp4-1080,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxoS-4gUoq-ys4wU.mp4
+BRIELLE - ROCKET -[106M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_4O-4gUoup_L-gM.mp4
+Carrie Underwood - Something in the Water -[150M.m,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkIO-4gUogLjbsQE.mp4
+Charli XCX - SuperLove -[82M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4v__4gUojv39lQI.mp4
+Charli XCX - Break The Rules -[104M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsv__4gUo_KSGxAE.mp4
+Ylvis - The Fox-[101M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyJm64gUoqrbt0wc.mp4
+Miley Cyrus - Adore You-[171M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgiZS64gUo3tGm3wI.mp4
+Katy Perry《Wide Awake》-[1.08G.mov-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3PG54gUo_t-97gY.mp4
+Leona Lewis - I See You--[290M.mkv-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqe254gUohpO5LQ.mp4
+Adele - Someone Like You-[145M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt_W54gUo_7aMoQY.mp4
+Lady Gaga &amp; Machete Kills - Aura-[138M.mp4-108,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpuO54gUo8Im93Qc.mp4
+Capital Cities - Safe And Sound (2nd Ver)-[138M.mk,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9eG54gUoxJH94AU.mp4
+Little Mix - Word Up!-[105M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-t_54gUotJKs-wc.mp4
+Imagine Dragons - Demons-[80M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk9u54gUo3LSK3wQ.mp4
+
+
+韩国女团,#genre#
+
+韩国歌舞001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+韩国歌团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+韩国歌团004,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+韩国歌团005,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+韩国歌团006,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+韩国歌团007,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+韩国歌团008,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+韩国歌团009,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+韩国歌团010,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+韩国歌团011,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+韩国歌团012,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+韩国歌团013,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+韩国歌团014,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+韩国歌团015,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+韩国歌团016,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+韩国歌团017,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+韩国歌团018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+韩国歌团019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+韩国歌团020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+歌团★021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+歌团★022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+歌团★023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+歌团★024,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+歌团★025,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+歌团★026,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+歌团★027,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+歌团★028,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
+歌团★029,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+歌团★030,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+歌团★031,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+歌团★032,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+歌团★033,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+歌团★034,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+歌团★035,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+歌团★036,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+歌团★037,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+歌团★038,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+歌团★039,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239936685999.mp4
+歌团★040,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+歌团★041,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
+歌团★042,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+歌团★043,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+歌团★044,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
+歌团★045,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+歌团★046,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+歌团★047,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+歌团★048,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+歌团★049,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+歌团★050,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+歌团★051,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
+歌团★052,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
+歌团★053,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
+歌团★054,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
+歌团★055,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+歌团★056,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+歌团★057,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+歌团★058,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+歌团★059,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
+歌团★060,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+歌团★061,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
+歌团★062,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
+歌团★063,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
+歌团★064,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+歌团★065,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+歌团★066,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
+歌团★067,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+歌团★068,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
+歌团★069,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
+歌团★070,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+歌团★071,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
+歌团★072,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
+歌团★074,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
+歌团★075,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
+歌团★076,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
+歌团★077,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
+歌团★078,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
+歌团★079,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
+歌团★080,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
+歌团★081,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
+歌团★082,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
+歌团★083,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
+歌团★084,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+歌团★085,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+歌团★086,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+歌团★087,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+歌团★088,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
+歌团★089,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+歌团★090,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+歌团★092,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
+歌团★093,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
+歌团★094,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
+歌团★095,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+歌团★096,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
+歌团★097,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
+歌团★098,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
+歌团★099,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+歌团★100,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+歌团★101,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
+歌团★102,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
+歌团★103,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
+歌团★104,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
+歌团★105,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
+歌团★106,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
+歌团★107,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
+歌团★108,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
+歌团★109,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
+歌团★110,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
+歌团★111,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
+歌团★112,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
+歌团★113,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+歌团★114,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
+歌团★115,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
+歌团★116,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+歌团★117,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+歌团★118,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
+歌团★119,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
+歌团★120,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
+歌团★121,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+歌团★122,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
+歌团★123,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
+歌团★125,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
+歌团★126,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
+歌团★127,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
+歌团★128,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
+歌团★129,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+歌团★130,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
+歌团★131,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
+歌团★132,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
+歌团★133,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
+歌团★134,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+歌团★135,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
+歌团★136,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
+歌团★137,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+歌团★138,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
+歌团★139,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
+歌团★140,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
+歌团★141,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
+歌团★142,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+歌团★143,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
+歌团★145,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
+歌团★146,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
+歌团★147,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
+歌团★148,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
+歌团★149,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
+歌团★150,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
+歌团★151,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
+歌团★152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
+歌团★153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+韩国太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+韩国太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+韩国太妍04,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+韩国太妍05,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+韩国太妍06,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+韩国太妍07,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+韩国太妍08,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+韩国太妍09,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+韩国太妍10,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+韩国太妍11,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+韩国太妍12,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+韩国太妍13,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+韩国太妍14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+韩国太妍15,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+韩国太妍16,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+韩国太妍17,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+韩国太妍18,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+韩国太妍19,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+韩国太妍20,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+韩国太妍21,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+韩国太妍22,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+韩国太妍23,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
+韩国太妍24,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+韩国太妍25,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+韩国太妍26,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+韩国太妍27,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+韩国太妍28,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+韩国太妍29,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+韩国太妍30,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
+韩国太妍31,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+韩国太妍32,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+韩国太妍33,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+韩国太妍34,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
+韩国太妍35,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+韩国太妍36,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+韩国太妍37,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+韩国太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+
+
+午夜频道_109186,#genre#
+
+SDAB-112 泡姫体験-久留木玲无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/698f6509/index.m3u8
+HYPN-022 狂妄的美女-早川瑞希无码流出详,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/33bbf4c6/index.m3u8
+SDNT-009 婦人服販売員无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/ae6bc3e6/index.m3u8
+AVOP-208 在与她可爱的侄子-由愛可奈无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/55448857/index.m3u8
+HYPN-023 催眠洗脑-早川瑞希无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/f5c94feb/index.m3u8
+SDAB-110 絶品美少女-久留木玲无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/28/311355d0/index.m3u8
+sdjs-033 大型的感恩节聚会无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/28/407b4e7a/index.m3u8
+abp-911 秘密服务-乙都さきの无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/28/2ec0d9db/index.m3u8
+MXGS-803 美人泡姫-吉沢明歩无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/28/9669f06b/index.m3u8
+sdab-129 真正的偶像-白城リサ无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/28/2116af85/index.m3u8
+mxgs-697 湿润的秘密肉体-水沢のの无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/28/e03ab201/index.m3u8
+kmhrs-023 巨大肉棒-滝沢ライラ无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/28/0dc70ebf/index.m3u8
+msfh-018 追逐高潮-前田桃杏无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/28/c9882909/index.m3u8
+兔子先生DAD-029-EP45爸气十足EP45,https://t23a.cdn2020.com/video/m3u8/2023/12/10/701da93d/index.m3u8
+RAS-0361偶遇失戀敏感女孩挑逗蜜穴羞澀,https://t23a.cdn2020.com/video/m3u8/2023/12/10/3b84362e/index.m3u8
+star-991 睾丸回春-加藤ももか无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/28/0668d7d2/index.m3u8
+abp-893 完全密着-鈴村あいり无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/27/fecff198/index.m3u8
+SDDE-625 淫乱学園无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/b79e51d3/index.m3u8
+STARS-232 梦中女友的回忆-永野いち夏无码流出,https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/e5f436be/index.m3u8
+MXGS-124 みひろ无码流出,https://t10t13t16.cdn2020.com/video/m3u8/2021/08/03/54964168/index.m3u8
+MXGS-705 木南日菜无码流出,https://t4t5t6t7.cdn2020.com/video/m3u8/2020/10/02/636e00d1/index.m3u8
+MXGS-783吉沢明歩无码流出,https://t4t5t6t7.cdn2020.com/video/m3u8/2020/10/02/75c70df5/index.m3u8
+MXGS-812 由愛可奈无码流出,https://t4t5t6t7.cdn2020.com/video/m3u8/2020/09/30/a6184b61/index.m3u8
+MXGS-910 吉沢明歩无码流出,https://z100.cdn2020.com/video/m3u8/2020/05/20/d5b94d5e/index.m3u8
+吉沢明步无码流出,https://z100.cdn2020.com/video/m3u8/2019/11/22/b52b40b0/index.m3u8
+ABP-588 熊倉しょうこ无码流出,https://z100.cdn2020.com/video/m3u8/2019/08/04/08e177af/index.m3u8
+042320_001-1pon 魔女吉川莲的一本道下马作,https://t21.cdn2020.com/video/m3u8/2023/01/31/435c18b0/index.m3u8
+080819-004-carib 度假村里的裸體模特,https://z100.cdn2020.com/video/m3u8/2019/08/10/c17d1567/index.m3u8
+淫荡的表姐骑乘位榨取浓精,https://t23a.cdn2020.com/video/m3u8/2023/09/12/98f96291/index.m3u8
+081019_149-paco 水着で妄想-江波,https://z100.cdn2020.com/video/m3u8/2019/08/12/19f170da/index.m3u8
+优蜜传媒之木兰当马骑,https://t22a.cdn2020.com/video/m3u8/2023/09/04/8dc0b190/index.m3u8
+IPX-620 丝袜姐姐的淫乱骑乘位,https://t22a.cdn2020.com/video/m3u8/2023/08/09/b3dc3025/index.m3u8
+DV-1684 痴女骑乘位-辰巳,https://t22a.cdn2020.com/video/m3u8/2023/08/08/71d0cd05/index.m3u8
+PGD-592 翘臀颜面骑乘,https://t22a.cdn2020.com/video/m3u8/2023/07/28/7890752a/index.m3u8
+SSNI-589 全力高潮骑乘位,https://t22a.cdn2020.com/video/m3u8/2023/07/16/acbabb13/index.m3u8
+奇淫旅社MDHT-0018淫娃室友的骑乘,https://t20a.cdn2020.com/video/m3u8/2022/11/09/6eef94d2/index.m3u8
+天美传媒TMW091四人海滩露营炮旅野外骑乘连续高潮,https://t20a.cdn2020.com/video/m3u8/2022/11/03/56d6cb18/index.m3u8
+MDAG-0003喜欢骑乘位的重机女孩,https://t18.cdn2020.com:12342/video/m3u8/2022/05/06/738fc76a/index.m3u8
+082319-991-carib Debut Vol.50-小森み,https://z100.cdn2020.com/video/m3u8/2019/08/25/c6852b47/index.m3u8
+天美传媒TM0145内射妹团援交女学生,https://t10t13t16.cdn2020.com/video/m3u8/2021/11/28/3a381127/index.m3u8
+第一次对镜头大潮吹,https://t18.cdn2020.com:12342/video/m3u8/2022/05/11/329a1f1a/index.m3u8
+国风按摩院MDCM-0007年节双飞俏佳丽,https://t21.cdn2020.com/video/m3u8/2023/02/23/38538ef9/index.m3u8
+兔子先生TZ-087大板闺蜜圣诞双飞,https://t21.cdn2020.com/video/m3u8/2022/12/23/55e0bee8/index.m3u8
+LAA-0076性爱VR双飞,https://t20a.cdn2020.com/video/m3u8/2022/10/20/742fff56/index.m3u8
+果冻传媒GDCM-019双飞带货主播及助理,https://t19.cdn2020.com/video/m3u8/2022/07/09/58d8a52b/index.m3u8
+淫乱双飞爆乱按摩师双洞齐开,https://t18.cdn2020.com:12342/video/m3u8/2022/05/31/418ae486/index.m3u8
+淫荡岳母勾引女婿潮喷不断,https://t23a.cdn2020.com/video/m3u8/2023/11/14/6cbd5b74/index.m3u8
+肥臀多水欲女被男友猛扣G点到潮喷欲仙欲死,https://z100.cdn2020.com/video/m3u8/2020/06/30/63f8a7c4/index.m3u8
+IPZZ-171 一直被女上司诱惑的我,https://t23a.cdn2020.com/video/m3u8/2023/12/02/fdb3dc86/index.m3u8
+MIDE-612 诱惑女上司-伊东千奈美,https://t23a.cdn2020.com/video/m3u8/2023/11/27/8707fb0c/index.m3u8
+HND-765 低语诱惑出轨中出-神宫寺奈绪,https://t23a.cdn2020.com/video/m3u8/2023/11/25/f4a9af99/index.m3u8
+PGD-864 中出女教师的诱惑-里美尤利,https://t23a.cdn2020.com/video/m3u8/2023/11/01/3a328a2b/index.m3u8
+PGD-526 连裤袜恋物癖-小川阿佐美,https://t23a.cdn2020.com/video/m3u8/2023/09/23/30997207/index.m3u8
+IPZ-275 美腿终极诱惑,https://t23a.cdn2020.com/video/m3u8/2023/10/27/3dbbda12/index.m3u8
+巨乳媚胸致命诱惑,https://t23a.cdn2020.com/video/m3u8/2023/10/18/7099ace6/index.m3u8
+69传媒69FILMS1048饥渴的老师,https://t23a.cdn2020.com/video/m3u8/2023/11/12/c2bde5a3/index.m3u8
+SSIS-379 因为禁欲而饥渴,https://t23a.cdn2020.com/video/m3u8/2023/11/29/49132d6c/index.m3u8
+SSIS-895 性饥渴的传说,https://t23a.cdn2020.com/video/m3u8/2023/10/27/10f040f9/index.m3u8
+IPZZ-077 和美女交换唾液-三上悠亚,https://t22a.cdn2020.com/video/m3u8/2023/08/02/2400be7f/index.m3u8
+红斯灯影像RS-024性饥渴女榨干我的大屌,https://t21.cdn2020.com/video/m3u8/2023/02/28/f10e0a53/index.m3u8
+绝对领域LY-014巨乳欲女招嫖男妓,https://t21.cdn2020.com/video/m3u8/2023/03/14/2a8adaca/index.m3u8
+SA国际传媒SAKY004饥渴少妇觊觎搬家工人,https://t21.cdn2020.com/video/m3u8/2022/12/21/fe70e310/index.m3u8
+色控PH-081饥渴日本熟女榨干日本中年大叔,https://t20a.cdn2020.com/video/m3u8/2022/10/16/9c1126cb/index.m3u8
+MD-0209饥渴三娘淫欲教子,https://t15.cdn2020.com:12339/video/m3u8/2022/02/03/1e4b57a1/index.m3u8
+IPZZ-136 绝伦口交九连发-希岛爱理,https://t23a.cdn2020.com/video/m3u8/2023/12/10/bd5744af/index.m3u8
+DV-1413 看到肉棒就立即口交的痴女,https://t23a.cdn2020.com/video/m3u8/2023/10/28/feb8d531/index.m3u8
+SSIS-522 无论何时何地都能马上口交的女仆,https://t23a.cdn2020.com/video/m3u8/2023/11/25/314ec906/index.m3u8
+ABF-032 狂热口交-稻叶优衣 长谷川可可,https://t23a.cdn2020.com/video/m3u8/2023/10/24/113b51d8/index.m3u8
+深情口交舔食爆操嫩穴-辛尤里,https://t23a.cdn2020.com/video/m3u8/2023/10/10/f12dd46c/index.m3u8
+IPZZ-066 你的口交实在太棒了-希岛爱理,https://t22a.cdn2020.com/video/m3u8/2023/07/29/9ac4c242/index.m3u8
+DV-1636 用最淫荡的口交舔着肉棒-辰巳唯,https://t22a.cdn2020.com/video/m3u8/2023/07/29/ccd89249/index.m3u8
+DV-1641 让我用一档的口交帮你吹吧,https://t22a.cdn2020.com/video/m3u8/2023/07/20/44004ccd/index.m3u8
+CWPBD-05 大塚咲,https://z100.cdn2020.com/video/m3u8/2019/08/02/46000728/index.m3u8
+BF-366 护士的告白-林由奈,https://t23a.cdn2020.com/video/m3u8/2023/12/02/341f190f/index.m3u8
+heyzo_1934 こってり濃厚激SEX -小野寺梨,https://z100.cdn2020.com/video/m3u8/2020/05/24/5ec1542f/index.m3u8
+carib012415-792 第一次把鸡巴放进来-綾瀬なるみ,https://t4t5t6t7.cdn2020.com/video/m3u8/2020/09/03/68ed123c/index.m3u8
+69传媒69FILMS1047护士为了加薪操了一个变态女同性恋,https://t23a.cdn2020.com/video/m3u8/2023/11/10/12853b06/index.m3u8
+MIDE-145 淘气的女护士-初川南,https://t23a.cdn2020.com/video/m3u8/2023/10/10/d6222aac/index.m3u8
+69传媒69FILMS1021性瘾女护士迷淫男患者,https://t23a.cdn2020.com/video/m3u8/2023/09/29/3568d524/index.m3u8
+IPZ-489 受骗的新人护士-RIO,https://t23a.cdn2020.com/video/m3u8/2023/09/27/85df76cc/index.m3u8
+MDX-0033 性玩物女孩的致富逆袭Ep3-夏晴子,https://t4t5t6t7.cdn2020.com/video/m3u8/2021/02/23/106663a1/index.m3u8
+69传媒69FILMS1007放荡的护士,https://t23a.cdn2020.com/video/m3u8/2023/09/18/acfe6500/index.m3u8
+星空传媒XKQP53用钞能力让护士姐姐为我治疗,https://t22a.cdn2020.com/video/m3u8/2023/09/06/3ff29f6c/index.m3u8
+050716-295 黑丝痴女护士-折原穂花,https://t22a.cdn2020.com/video/m3u8/2023/08/27/a2468cdb/index.m3u8
+MIDV-435 淫荡护士帮你撸肉棒-神宫寺奈绪,https://t22a.cdn2020.com/video/m3u8/2023/08/25/3908144f/index.m3u8
+heyzo_0809 顺从的护士-君岛安娜,https://t22a.cdn2020.com/video/m3u8/2023/08/24/c826b261/index.m3u8
+MD-0203迷奸女租客-玥可蓝 苏娅,https://t15.cdn2020.com:12339/video/m3u8/2022/01/08/37913b56/index.m3u8
+饥渴护士的治疗措施-桥本香菜,https://t22a.cdn2020.com/video/m3u8/2023/08/19/4382c3e1/index.m3u8
+欲求不满女护士的日常特殊理疗服务,https://t22a.cdn2020.com/video/m3u8/2023/08/15/0d24ae13/index.m3u8
+SSIS-757 特别性看护的乳交护士-梦乃爱华,https://t22a.cdn2020.com/video/m3u8/2023/08/02/e304f7d7/index.m3u8
+MIDV-186 痴女护士-石川澪,https://t22a.cdn2020.com/video/m3u8/2023/07/12/2b659f62/index.m3u8
+星空传媒XK8173护士姐姐绝伦家,https://t22a.cdn2020.com/video/m3u8/2023/07/10/69acd426/index.m3u8
+MIDV-287 进行长时间的清理口交的美女护士,https://t22a.cdn2020.com/video/m3u8/2023/05/29/dad4ab64/index.m3u8
+SSIS-701 变态痴女护士-坂道美琉,https://t22a.cdn2020.com/video/m3u8/2023/05/21/3c8324de/index.m3u8
+爱神传媒EMX-001护士想被病患巨屌塞满详,https://t21.cdn2020.com/video/m3u8/2023/03/23/010d67f3/index.m3u8
+护士嫩妹用小穴的特殊治疗-花花,https://t20a.cdn2020.com/video/m3u8/2022/11/02/3102f152/index.m3u8
+淫荡护士白丝诱惑疯狂输出多姿势抽插,https://t20a.cdn2020.com/video/m3u8/2022/09/07/8e303f37/index.m3u8
+蜜桃传媒PMX063白衣护士下班后的淫荡-唐茜详,https://t19.cdn2020.com/video/m3u8/2022/06/05/1e80f74d/index.m3u8
+良家嫩穴小护士口交后入高潮不断-91猫先生,https://t18.cdn2020.com:12342/video/m3u8/2022/05/31/66506b66/index.m3u8
+MIDE-031 性爱体验-大桥未久,https://t23a.cdn2020.com/video/m3u8/2023/11/19/05ab1ff2/index.m3u8
+蜜桃传媒PMX127AV女优面试-巨乳少妇,https://t23a.cdn2020.com/video/m3u8/2023/11/08/dd041cfd/index.m3u8
+DV-1277 没有穿胸罩的美女老师-辰已唯,https://t23a.cdn2020.com/video/m3u8/2023/11/10/689b20dd/index.m3u8
+蜜桃影像EMX030化学女老师的性爱玩具,https://t23a.cdn2020.com/video/m3u8/2023/10/05/fae13822/index.m3u8
+憧憬的性勾引老师我很崇拜你,https://t23a.cdn2020.com/video/m3u8/2023/09/18/388a00df/index.m3u8
+SSIS-764 让男人们难忍的究极快感-香水,https://t22a.cdn2020.com/video/m3u8/2023/08/01/d7812d74/index.m3u8
+STARS-818 G杯美巨乳老师-神木丽,https://t22a.cdn2020.com/video/m3u8/2023/08/25/c0019f4f/index.m3u8
+IPX-714 玩弄我童贞鸡巴的痴女老师-相泽南,https://t22a.cdn2020.com/video/m3u8/2023/08/07/8e97e493/index.m3u8
+082019_888-1pon 高級ソープへようこそ 水澄ひかり,https://z100.cdn2020.com/video/m3u8/2019/08/24/f1593bd8/index.m3u8
+IPX-998 老师今天可以过夜吗-相泽南,https://t22a.cdn2020.com/video/m3u8/2023/07/20/837a6f79/index.m3u8
+082119-989-carib AVが天職です-こずえまき,https://z100.cdn2020.com/video/m3u8/2019/08/24/426eaf48/index.m3u8
+ABW-358 美女保健室老师-凉森玲梦,https://t22a.cdn2020.com/video/m3u8/2023/07/03/a2b7b96e/index.m3u8
+MDL-0008-1我不是撸神上集追随本性情欲释放,https://t20a.cdn2020.com/video/m3u8/2022/10/08/19e971f7/index.m3u8
+我不是撸神下集MDL-0008-2初心不改性欲无罪,https://t20a.cdn2020.com/video/m3u8/2022/10/16/133ef338/index.m3u8
+沈樵首部大尺度古装剧情七旬老农女鬼诱惑,https://z100.cdn2020.com/video/m3u8/2020/06/14/df1cd2e3/index.m3u8
+LAA-0026骚妇诱惑熟男警察,https://t15.cdn2020.com:12339/video/m3u8/2021/12/25/38e32478/index.m3u8
+儿子和淫荡小舅妈的乱伦被发现,https://t22a.cdn2020.com/video/m3u8/2023/07/07/22aa55cc/index.m3u8
+ABW-068 胸粪NTR-松冈铃,https://t22a.cdn2020.com/video/m3u8/2023/08/08/2c646596/index.m3u8
+情趣内衣吊带配丝袜-nicolove,https://t15.cdn2020.com:12339/video/m3u8/2021/12/28/02426f08/index.m3u8
+FSDSS-627 我的心和身体都感受到了渴望的性爱,https://t22a.cdn2020.com/video/m3u8/2023/08/01/933c4dee/index.m3u8
+LAA-0056渴望做爱的巨乳骚货,https://t10t13t16.cdn2020.com/video/m3u8/2022/02/26/57b266e0/index.m3u8
+LAA-0023火辣学徒渴望交欢,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/6920b598/index.m3u8
+寂寞少妇渴望被操-nicolove,https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/9779a91a/index.m3u8
+LAA-0006騷人妻渴望老師肉棒,https://t10t13t16.cdn2020.com/video/m3u8/2021/11/21/7e1ec2e3/index.m3u8
+MIDV-522 从工作裙下偷窥内裤-神宫寺奈绪,https://t23a.cdn2020.com/video/m3u8/2023/11/23/b4a37015/index.m3u8
+MM-065偷窥NTR全程巨乳爱妻任人内射-吴梦梦,https://t20a.cdn2020.com/video/m3u8/2022/09/21/884308d5/index.m3u8
+STAR-469 被设奸计而强奸的女教师-古川伊织,https://t23a.cdn2020.com/video/m3u8/2023/11/27/748163ce/index.m3u8
+MIDE-175 包臀超短裙女教师-铃木心春,https://t23a.cdn2020.com/video/m3u8/2023/11/04/a15afcdd/index.m3u8
+RBD-573 服从女教师的耻辱日-本田岬,https://t23a.cdn2020.com/video/m3u8/2023/10/22/f92dc788/index.m3u8
+DV-1563 淫荡女教师-辰巳唯,https://t23a.cdn2020.com/video/m3u8/2023/10/20/6b454399/index.m3u8
+IPZ-634 超短裙美女教师-希志爱野,https://t23a.cdn2020.com/video/m3u8/2023/09/23/25db9c7e/index.m3u8
+IPZ-133 黑丝女教师的诱惑授业-石原莉奈,https://t23a.cdn2020.com/video/m3u8/2023/09/17/8abe7b38/index.m3u8
+PGD-736 短裙荡妇女教师-里美尤利娅,https://t22a.cdn2020.com/video/m3u8/2023/05/24/ff0062f9/index.m3u8
+hnd-021 诱惑学生无套插入内射的女教师-坂野由,https://t21.cdn2020.com/video/m3u8/2023/01/13/4dee201c/index.m3u8
+MIDE-014 被超级痴女强行榨精的我-里美尤利娅,https://t23a.cdn2020.com/video/m3u8/2023/11/27/dc177022/index.m3u8
+skyhd-104 淫荡痴女-波多野结衣,https://t22a.cdn2020.com/video/m3u8/2023/08/12/7f25b990/index.m3u8
+BF-319 密会人妻-波多野结衣,https://t22a.cdn2020.com/video/m3u8/2023/07/20/4be25434/index.m3u8
+skyhd-039 极品肉欲胴体波多野结衣的内射性爱,https://t21.cdn2020.com/video/m3u8/2023/01/06/546913d7/index.m3u8
+lafbd-53 被内射调教的奴隶美人妻-波多野结衣,https://t20a.cdn2020.com/video/m3u8/2022/09/22/530a3936/index.m3u8
+DV-1498 强奸千金小姐-葵司详情介绍-DV-1498 强奸千金小姐-葵司,https://t23a.cdn2020.com/video/m3u8/2023/10/30/231376c6/index.m3u8
+IPZ-594 超美的电梯小姐-希志爱,https://t23a.cdn2020.com/video/m3u8/2023/10/28/63f850b4/index.m3u8
+STAR-587 超高级新人泡泡浴小姐-松冈千菜,https://t23a.cdn2020.com/video/m3u8/2023/10/08/24065aa2/index.m3u8
+SNIS-249 超高级风俗小姐-天使萌,https://t22a.cdn2020.com/video/m3u8/2023/08/26/51ac4fbd/index.m3u8
+ATID-567 风俗店里新来的小姐-三宫椿,https://t22a.cdn2020.com/video/m3u8/2023/08/21/e0330687/index.m3u8
+ABP-186 人生首次高潮-铃村爱里,https://t23a.cdn2020.com/video/m3u8/2023/11/15/062794e5/index.m3u8
+MD-0281淫语世界的高潮体验,https://t22a.cdn2020.com/video/m3u8/2023/08/12/a9536631/index.m3u8
+MIDV-386 蛋蛋掏空前会一直让你高潮,https://t22a.cdn2020.com/video/m3u8/2023/08/05/53ffd730/index.m3u8
+天美传媒TMW087超会做爱的清纯女友,https://t20a.cdn2020.com/video/m3u8/2022/10/22/2060e86b/index.m3u8
+SSIS-756 想要榨干被拘束的M男的贵族范S女,https://t22a.cdn2020.com/video/m3u8/2023/07/12/3423813d/index.m3u8
+SNIS-573 与S1七姐妹的同居后宫性生活后篇详,https://t23a.cdn2020.com/video/m3u8/2023/09/29/576a826d/index.m3u8
+MGL-0002沉溺偷情的淫乱姐妹,https://t22a.cdn2020.com/video/m3u8/2023/09/01/c7ac3b9b/index.m3u8
+MGL-0001沉溺偷情的淫乱姐妹-苏畅 吴梦梦,https://t22a.cdn2020.com/video/m3u8/2023/08/19/30583c83/index.m3u8
+n0889 在诊室调教内射的淫荡医生姐妹花,https://t22a.cdn2020.com/video/m3u8/2023/06/22/b68b4b27/index.m3u8
+果冻传媒91CM-255姐妹同性的快乐,https://t21.cdn2020.com/video/m3u8/2023/05/07/f5edf340/index.m3u8
+麻麻传媒MT-016真实姐妹花初下海,https://t20a.cdn2020.com/video/m3u8/2022/10/26/e6875773/index.m3u8
+风骚姐妹情趣内衣玩弄假鸡巴淫乱3P,https://t19.cdn2020.com/video/m3u8/2022/07/27/a95fbe0b/index.m3u8
+巨乳姐妹百合秀-辛尤里,https://t17.cdn2020.com:12341/video/m3u8/2022/04/17/1509487b/index.m3u8
+MD-0195争风吃醋3P姐妹丼-徐蕾 蜜苏,https://t10t13t16.cdn2020.com/video/m3u8/2021/12/11/aee9b86e/index.m3u8
+010113_504-1pondo 獨佔美人3姐妹,https://z100.cdn2020.com/video/m3u8/2019/08/07/37a833f2/index.m3u8
+040511_065-1pon 人妻の敏感アナル-柳田やよい,https://z100.cdn2020.com/video/m3u8/2019/07/24/23090950/index.m3u8
+IPX-557 欲求不满寂寞人妻-相泽南详,https://t22a.cdn2020.com/video/m3u8/2023/08/27/518cca94/index.m3u8
+JUX-422 寂寞的巨乳人妻-爱田奈奈,https://t22a.cdn2020.com/video/m3u8/2023/08/27/cda41ed4/index.m3u8
+JUX-446 极度寂寞的人妻-爱田奈奈,https://t22a.cdn2020.com/video/m3u8/2023/07/06/265fcf16/index.m3u8
+060217-438 寂寞美女生岛凉,https://t20a.cdn2020.com/video/m3u8/2022/09/30/3cdab21b/index.m3u8
+
+
+欧美系列_109186,#genre#
+
+孤峰,https://t4t5t6t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
+秘制酱料,https://t4t5t6t7.cdn2020.com/video/m3u8/2021/04/16/a26603ac/index.m3u8
+我是最棒的,https://t4t5t6t7.cdn2020.com/video/m3u8/2021/04/16/e51ebbc0/index.m3u8
+禅与性,https://t4t5t6t7.cdn2020.com/video/m3u8/2021/04/16/108c5de1/index.m3u8
+你想做爱或走,https://z100.cdn2020.com/video/m3u8/2020/06/17/90840af7/index.m3u8
+新鲜的大屌,https://z100.cdn2020.com/video/m3u8/2020/06/17/ec0ebb17/index.m3u8
+我想做,https://z100.cdn2020.com/video/m3u8/2020/06/17/346c1b53/index.m3u8
+冲动,https://z100.cdn2020.com/video/m3u8/2020/06/17/1ebdfc2c/index.m3u8
+由它引发,https://z100.cdn2020.com/video/m3u8/2020/06/17/62263e62/index.m3u8
+甜蜜的温柔,https://z100.cdn2020.com/video/m3u8/2020/06/17/6fc8e49f/index.m3u8
+她们就是我要的,https://z100.cdn2020.com/video/m3u8/2020/06/17/bcefa972/index.m3u8
+可以做任何姿势,https://z100.cdn2020.com/video/m3u8/2020/06/17/3d920351/index.m3u8
+假期,https://z100.cdn2020.com/video/m3u8/2020/06/17/d72a0cdb/index.m3u8
+永不退缩,https://z100.cdn2020.com/video/m3u8/2020/06/15/53372092/index.m3u8
+这个时间,https://z100.cdn2020.com/video/m3u8/2020/06/15/df5f8414/index.m3u8
+两个想性爱的女人,https://z100.cdn2020.com/video/m3u8/2020/06/15/fe89541c/index.m3u8
+我们为了性爱而旅行,https://z100.cdn2020.com/video/m3u8/2020/06/15/574a6241/index.m3u8
+两人的乐趣,https://z100.cdn2020.com/video/m3u8/2020/06/13/66cc1d16/index.m3u8
+一点爱,https://z100.cdn2020.com/video/m3u8/2020/06/13/e099c046/index.m3u8
+滚床单王牌,https://z100.cdn2020.com/video/m3u8/2020/06/13/f7f3a1d2/index.m3u8
+浴池里开始,https://z100.cdn2020.com/video/m3u8/2020/06/13/d7fa7da8/index.m3u8
+与比尔做爱,https://z100.cdn2020.com/video/m3u8/2020/06/13/2f5c1e5b/index.m3u8
+熟悉的陌生人,https://z100.cdn2020.com/video/m3u8/2020/06/13/1caba2f0/index.m3u8
+夜里的爱,https://z100.cdn2020.com/video/m3u8/2020/06/13/26c2e474/index.m3u8
+性爱姿势的规律,https://z100.cdn2020.com/video/m3u8/2020/06/04/76148c77/index.m3u8
+点对点,https://z100.cdn2020.com/video/m3u8/2020/06/04/48ce9013/index.m3u8
+痛的感觉,https://z100.cdn2020.com/video/m3u8/2020/06/04/4f4067b9/index.m3u8
+性爱规则,https://z100.cdn2020.com/video/m3u8/2020/06/04/62efca58/index.m3u8
+小女子,https://z100.cdn2020.com/video/m3u8/2020/06/04/56599c27/index.m3u8
+隔离开放后的金发女孩,https://z100.cdn2020.com/video/m3u8/2020/05/27/c6491539/index.m3u8
+害羞的三人行,https://z100.cdn2020.com/video/m3u8/2020/05/27/d106a715/index.m3u8
+早上少女的爱,https://z100.cdn2020.com/video/m3u8/2020/05/27/95848272/index.m3u8
+曾经在陪同下尝试过性爱,https://z100.cdn2020.com/video/m3u8/2020/05/27/ac6f84df/index.m3u8
+永远不要忘记与萨布丽娜做爱,https://z100.cdn2020.com/video/m3u8/2020/05/27/b61e0d34/index.m3u8
+还想要一次,https://z100.cdn2020.com/video/m3u8/2020/05/27/be23a310/index.m3u8
+金发女郎的性早餐,https://z100.cdn2020.com/video/m3u8/2020/05/27/88296fb4/index.m3u8
+18岁的捷克公主,https://z100.cdn2020.com/video/m3u8/2020/05/27/f7709378/index.m3u8
+不一样的湿润,https://z100.cdn2020.com/video/m3u8/2019/09/05/f5d98274/index.m3u8
+情色之歌,https://z100.cdn2020.com/video/m3u8/2019/09/05/59b115b8/index.m3u8
+请用力伙计,https://z100.cdn2020.com/video/m3u8/2019/09/05/b19bbc8e/index.m3u8
+需要爱的种子,https://z100.cdn2020.com/video/m3u8/2019/09/05/91500757/index.m3u8
+女朋友的闺蜜,https://z100.cdn2020.com/video/m3u8/2019/08/25/e291c893/index.m3u8
+性艺术家,https://z100.cdn2020.com/video/m3u8/2019/08/25/2f967ce4/index.m3u8
+温顺的女孩,https://z100.cdn2020.com/video/m3u8/2019/08/25/251e199b/index.m3u8
+狂野的床上训练,https://z100.cdn2020.com/video/m3u8/2019/08/25/c8e41d9d/index.m3u8
+私人表演,https://z100.cdn2020.com/video/m3u8/2019/08/25/aa0b2364/index.m3u8
+甜美的女朋友,https://z100.cdn2020.com/video/m3u8/2019/08/25/cdfaa436/index.m3u8
+梅琳娜的欢乐时光,https://z100.cdn2020.com/video/m3u8/2019/08/25/19a7052c/index.m3u8
+狂野的热情,https://z100.cdn2020.com/video/m3u8/2019/08/25/ae449911/index.m3u8
+淫荡的女孩,https://z100.cdn2020.com/video/m3u8/2019/08/25/e5b8ac7d/index.m3u8
+满足自已的阴道,https://z100.cdn2020.com/video/m3u8/2019/08/21/f70cb560/index.m3u8
+女闺蜜的梦想,https://z100.cdn2020.com/video/m3u8/2019/08/21/e5cd2e1e/index.m3u8
+香草之夜,https://z100.cdn2020.com/video/m3u8/2019/08/21/5fa77066/index.m3u8
+体内的倦怠,https://z100.cdn2020.com/video/m3u8/2019/08/21/207f3e96/index.m3u8
+欲望的幻想,https://z100.cdn2020.com/video/m3u8/2019/08/21/c76afcca/index.m3u8
+阴道的气味,https://z100.cdn2020.com/video/m3u8/2019/08/21/5111cc96/index.m3u8
+姑娘的新宠,https://z100.cdn2020.com/video/m3u8/2019/08/21/6891af2e/index.m3u8
+红头发的小阴道,https://z100.cdn2020.com/video/m3u8/2019/08/21/c54da60e/index.m3u8
+欲望之眼,https://z100.cdn2020.com/video/m3u8/2019/08/19/cda44b60/index.m3u8
+美丽的奴隶游戏,https://z100.cdn2020.com/video/m3u8/2019/08/19/1732a3e7/index.m3u8
+遇到一个帅帅的小哥哥,https://z100.cdn2020.com/video/m3u8/2019/08/19/9f7ac267/index.m3u8
+放荡的女孩,https://z100.cdn2020.com/video/m3u8/2019/08/19/fa4eca15/index.m3u8
+索菲的微笑,https://z100.cdn2020.com/video/m3u8/2019/08/19/a18e4400/index.m3u8
+婚礼歌手,https://z100.cdn2020.com/video/m3u8/2019/08/16/df07b67e/index.m3u8
+你认为应该这样吗,https://z100.cdn2020.com/video/m3u8/2019/08/16/c86c4cf6/index.m3u8
+天美传媒TM0147淫乱4P,https://t10t13t16.cdn2020.com/video/m3u8/2021/12/05/373d172b/index.m3u8
+你需要调教一下,https://z100.cdn2020.com/video/m3u8/2019/08/16/d31de2af/index.m3u8
+我是很紧的,https://z100.cdn2020.com/video/m3u8/2019/08/16/13fbba26/index.m3u8
+我们刚认识,https://z100.cdn2020.com/video/m3u8/2019/08/16/42558909/index.m3u8
+不再害羞,https://z100.cdn2020.com/video/m3u8/2019/08/16/424a95ec/index.m3u8"]}]}]
